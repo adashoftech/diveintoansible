@@ -1,3 +1,6 @@
+[control]
+ubuntu-c ansible_connection=local
+
 [centos]
 centos1:2222 ansible_user=root
 centos2 ansible_user=root
